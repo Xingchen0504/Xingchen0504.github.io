@@ -1,10 +1,12 @@
 # planning
 ## paper list
 ## Learning materials
+[apollo](https://apollo.baidu.com/)
+实践(https://github.com/zhm-real/PathPlanning)
 ## company tech
 ## 基础
 ### 动力学模型
-## 计算几何
+### 计算几何
 --------------------------------------------------
 # Machine Learning
 --------------------------------------------------
