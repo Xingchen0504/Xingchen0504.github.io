@@ -1,4 +1,10 @@
-[Hux Blog](https://huangxuan.me)
+[Planning](https://huangxuan.me)
+================================
+[c++](https://huangxuan.me)
+================================
+[Machine Learning](https://huangxuan.me)
+================================
+[..](https://huangxuan.me)
 ================================
 
 > I never expect this becomes popular.
