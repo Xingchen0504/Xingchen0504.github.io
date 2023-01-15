@@ -8,10 +8,11 @@ IROS：IEEE/RSJ International Conference on Intelligent Robots and Systems <br /
 ROBIO：IEEE International Conference on Robotics and Biomimetics <br />
 ### 期刊
 cas
-IEEE TIE中文工业电子，是大同行都比较认可的
-IEEE ITS，方向偏交通
-IEEE TVT发文量比较大
-IEEE TIV, IEEE TTE属于后起之秀，发文量都不大，都有国内
+IEEE TIE中文工业电子，是大同行都比较认可的 <br />
+IEEE ITS，方向偏交通 <br />
+IEEE TVT发文量比较大 <br />
+VSD 动力学顶刊 <br />
+IEEE TIV, IEEE TTE属于后起之秀，发文量都不大，都有国内 <br />
 ## Learning materials
 [apollo](https://apollo.baidu.com/) <br />
 [大疆司康哥](https://scholar.google.com.hk/citations?hl=zh-CN&user=Yv4WunEAAAAJ) <br />
