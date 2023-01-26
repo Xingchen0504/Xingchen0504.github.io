@@ -25,6 +25,7 @@ IEEE TIV, IEEE TTE属于后起之秀，发文量都不大，都有国内 <br />
 ### 计算几何
 --------------------------------------------------
 # MDP
+https://reader.elsevier.com/reader/sd/pii/S000437029800023X?token=AB6DB20EB72B01F1E4E044926DB03B6184FDD8894DA0B26960D7E14C3C429D0A82A7DDB2C4259F32C0CF552A04233F58&originRegion=us-east-1&originCreation=20230126044327 <br />
 expect max 最大期望算法 <br />
 决策节点 当前所在的节点 可以进行决策 <br />
 机会节点 决策者无法控制的情况 根据概率转移 <br />
