@@ -32,7 +32,7 @@ expect max 最大期望算法 <br />
 平稳策略，a只跟s有关，无限时间的MDP一般最优策略是平稳的 <br />
 平稳策略，a只跟s和t有关，有限时间的MDP一般最优策略是非平稳的 <br />
 ## 值迭代求解法
-(https://user-images.githubusercontent.com/64729643/214764603-05899423-eeb1-4b29-9221-684945103621.png) <br />
+![](https://user-images.githubusercontent.com/64729643/214764603-05899423-eeb1-4b29-9221-684945103621.png) <br />
 V1(s)代表一次行动的预计收益 <br />
 自底向上迭代计算 <br />
 # POMDP <br />
