@@ -13,6 +13,18 @@ IEEE ITS，方向偏交通 <br />
 IEEE TVT发文量比较大 <br />
 VSD 动力学顶刊 <br />
 IEEE TIV, IEEE TTE属于后起之秀，发文量都不大，都有国内 <br />
+## 交规
+### 红绿灯
+#### 特种车辆
+特种车辆需要被让行 <br />
+#### 直行让右原则
+十字路口均直行场景，应当让行右侧车辆，左右两车道向中心车道并道时，考虑保护驾驶员，同样适用让行右侧车辆 <br />
+右侧车辆处于白色单实线或者双实线时，应当停车让行，虚线时应当减速让行，让右原则失效 <br />
+并道时直行车辆不需让行右侧车辆 <br />
+####让左原则
+十字路口汇入相同车道，右转车辆应当让行左转车辆 <br />
+####让直原则 
+转弯车道应当让行直行车辆 <br />
 ## Learning materials
 [apollo](https://apollo.baidu.com/) <br />
 [大疆司康哥](https://scholar.google.com.hk/citations?hl=zh-CN&user=Yv4WunEAAAAJ) <br />
