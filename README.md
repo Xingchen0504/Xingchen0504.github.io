@@ -1,4 +1,9 @@
 # planning
+## qp
+### 解法
+#### osqp 交替方向乘子法
+#### qpOASES 有效集法
+#### 半光滑牛顿法 拉格朗日方法 Lemke方法 内点法 椭球算法
 ## paper list
 ## paper rank
 ### 会议
