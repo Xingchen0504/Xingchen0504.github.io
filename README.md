@@ -1,4 +1,19 @@
 # planning
+## 地图格式
+### 有序地图
+#### occupancy grid map
+最简单的2.5D地图，2D栅格地图增加高度,使用最广泛。 https://github.com/ANYbotics/grid_map
+#### Octo-map
+八叉树地图，递归查找。https://github.com/OctoMap/octomap
+#### Voxel hashing
+离散化哈希地图
+### 无序地图
+#### point cloud map
+激光点云地图
+#### TSDF map
+用截断的距离场表示距离障碍物边界的距离（包括内部和外部）
+#### ESDF map
+非截断，全部距离场
 ## qp
 ### 解法
 #### osqp 交替方向乘子法
